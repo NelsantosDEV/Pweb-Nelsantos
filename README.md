@@ -22,7 +22,7 @@ apt install wget -y; bash <(wget -qO- https://github.com/NelsantosDEV/Pweb-Nelsa
 
 # 𓊈𒆜 SCRIPT COM CHECKUSER CONECTA4G! 𒆜𓊉
 
-👉 https://github.com/JeanRocha91x/P-SSH-Swit-T-Plus
+👉 https://github.com/NelsantosDEV/Sincronizador-Nelsantos
 </br></br>
 
 # 𓊈𒆜 ATUALIZAÇÕES: 𒆜𓊉
